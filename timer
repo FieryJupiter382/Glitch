@@ -1,0 +1,9 @@
+if (MyVarible>10) ;{
+printf(hi) ;{
+}
+else{
+wait(1, seconds){
+MyVarible == MyVarible + 1{
+}
+return 0;
+}
